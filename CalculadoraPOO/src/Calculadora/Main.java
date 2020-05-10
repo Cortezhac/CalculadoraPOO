@@ -35,10 +35,10 @@ public class Main {
                 Resta resta = new Resta();
                 break;
             case 3 :
-                Multiplicacion suma = new Multipliacion();
+                Multiplicacion multiplicacion = new Multiplicacion();
                 break;
             case 4 :
-                Division suma = new Division();
+                Division division = new Division();
                 break;
         }
     }
